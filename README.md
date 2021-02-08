@@ -12,7 +12,7 @@ I'm DilLip Chowdary
 
 #### 📫 How to reach me: ...
 - [Twitter](https://twitter.com/DilLip_Rayapati)
-- [Blog](https://dev.to/dillip_chowdary)
+- [Blog](https://dev.to/dillip_chowdary) [Work in Progress]
 - [LinkedIn](https://www.linkedin.com/in/dillip-chowdary/)
 
 
