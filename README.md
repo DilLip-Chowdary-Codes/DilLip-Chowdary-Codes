@@ -2,18 +2,28 @@
 
 I'm DilLip Chowdary 
 
-- 21 👦 Telugu Guy 
-- 🔭 Profession: DevOps [@ibhubs](https://ibhubs.co)
-- Spend Break times in BugHunting
-- Logical fellow, Animal Lover, Nature Lover
+- 22 👦 🇮🇳 Telugu Guy
+- 🔭 Profession: DevOps Engineer [@ibhubs](https://ibhubs.co)
+- Area of Work: DevOps,  Cloud (AWS, GCP), System Adminstration.
 
-> **⚡ Fun fact: Yes,  I'm Still Single ❤️**
+**Hobbies**
+- Bug Hunting ⛏️.
+- Scripting 👨‍💻.
+- Music 🎧.
+
+**Need More?**
+- Offline Introvert
+- Logical fellow
+- Animal Lover (Including Social Animals)
+- Nature Lover
+
+> **⚡ Fun fact: Yes,  I'm Still Single❤️ in 2022 too**
 
 
 #### 📫 How to reach me: ...
 - [Twitter](https://twitter.com/DilLip_Rayapati)
-- [Blog](https://dev.to/dillip_chowdary) [Work in Progress]
 - [LinkedIn](https://www.linkedin.com/in/dillip-chowdary/)
+- Also checkout my [Blogs](https://blogs.techinthecloud.ml/)
 
 
 ##### Visitors Count: 
@@ -31,7 +41,7 @@ I'm DilLip Chowdary
 
 
 
-**Last_Updated**: 08-02-2021
+**Last_Updated**: 20-10-2022
 
-_Version: 1.0.1_
+_Version: 2.0.0_
 
