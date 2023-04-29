@@ -14,22 +14,21 @@ I'm DilLip Chowdary
 **Need More?**
 - Offline Introvert
 - Logical fellow
-- Animal Lover (Including Social Animals)
-- Nature Lover
+- Animal Lover
 
-> **⚡ Fun fact: Yes,  I'm Still Single❤️ in 2022 too**
+> **⚡ Fun fact: Yes,  I'm Still Single❤️ in 2023 too**
 
 
 #### 📫 How to reach me: ...
 - [Twitter](https://twitter.com/DilLip_Rayapati)
 - [LinkedIn](https://www.linkedin.com/in/dillip-chowdary/)
-- Also checkout my [Blogs](https://blogs.techinthecloud.ml/)
+- Also checkout my Blogs
+  - [GeeksForGeeks](https://auth.geeksforgeeks.org/user/dillip_chowdary/articles)
 
 
 ##### Visitors Count: 
 
-![](https://profile-counter.glitch.me/DilLip-Chowdary-Codes/count.svg) 
-
+![](https://profile-counter.glitch.me/DilLip-Chowdary-Codes/count.svg)
 
 
 ##### Lang Stats: 
@@ -41,7 +40,7 @@ I'm DilLip Chowdary
 
 
 
-**Last_Updated**: 20-10-2022
+**Last_Updated**: 29-04-2023
 
-_Version: 2.0.0_
+_Version: 2023.0.0_
 
